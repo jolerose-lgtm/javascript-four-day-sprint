@@ -8,14 +8,18 @@ A repository containing my progress during the JavaScript Practical Training spr
 - Operators and expressions
 - Conditions (if/else)
 - Loops and basic exercises
+- Functions
+  - Creating Functions
+  -Parameters and arguments
+  -Return values
+  -Basic validation
+  -Receipt calculations
 
 ## Currently Learning
-- Functions
-- Parameters and return values
-- Building reusable JavaScript logic
+-Arrays and objects
+-Building the receipt calculator
 
 ## Remaining
-- Arrays and objects
 - DOM manipulation
 - Events and localStorage
 - Async JavaScript concepts
